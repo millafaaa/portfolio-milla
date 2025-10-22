@@ -1,0 +1,1 @@
+console.log('Website portofolio Milla Hanifa berhasil dimuat.');
